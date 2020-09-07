@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Caraher Portfolio Website</title>
+    <link>https://stevecara.github.io/Portfolio/</link>
+    <description>Recent content on Stephen Caraher Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevecara.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ANZ Virtual Internship - Banking Predictive Analytics</title>
+      <link>https://stevecara.github.io/Portfolio/post/anzvirtintern/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/anzvirtintern/</guid>
+      <description>&lt;p&gt;In this project I undertook exploratory data analysis to obtain key insights from transaction sample data for the Australia and New Zealand Banking Group (ANZ) as part of a Virtual Internship. I created linear regression and decision-tree models to predict salaries.  The predictions were ~50% more accurate than the ANZ model solution.  (Click project titles to access each project page).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/transactionheatmap250.png&#34; alt=&#34;image&#34;&gt;                &lt;img src=&#34;https://stevecara.github.io/Portfolio/images/hourlytra250.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quantium Virtual Internship - Retail Performance Analytics</title>
+      <link>https://stevecara.github.io/Portfolio/post/quantvirtintern/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/quantvirtintern/</guid>
+      <description>&lt;p&gt;In this project I undertook data preparation, customer analytics, experimentation, uplift testing and performance analytics on a large dataset for a major retailer as part of my Virtual Internship Experience with Quantium. I used the insights to derive a commercial strategy for the retail manager.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/TrialStores2250.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>European Football Club Points</title>
+      <link>https://stevecara.github.io/Portfolio/post/footballpoints/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/footballpoints/</guid>
+      <description>&lt;p&gt;In this project I used linear, lasso and random forest regression machine learning models to predict the final points totals of European football clubs, based on projected performance metrics.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/averagepoints.PNG&#34; alt=&#34;&#34;&gt;       &lt;img src=&#34;https://stevecara.github.io/Portfolio/images/footballboxplot.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Classifier</title>
+      <link>https://stevecara.github.io/Portfolio/post/trafficsigndl/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/trafficsigndl/</guid>
+      <description>&lt;p&gt;I developed a nueral network with deep learning using Python and Keras to recognise and classify different images of traffic signs with an accuracy of 98%.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/trafficsignpredictions250.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predicting House Prices</title>
+      <link>https://stevecara.github.io/Portfolio/post/houseprices/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/houseprices/</guid>
+      <description>&lt;p&gt;In this project I created and optimised a gradient boosted machine learning model to predict house prices in Iowa for submission to a Kaggle.com competition. My submission is in the top 7% of submissions globally (as of 05/09/2020).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/counts300.png&#34; alt=&#34;Picture&#34;&gt;            &lt;img src=&#34;https://stevecara.github.io/Portfolio/images/heatmap.png&#34; alt=&#34;Picture&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Titanic Survivors</title>
+      <link>https://stevecara.github.io/Portfolio/post/titanic/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/post/titanic/</guid>
+      <description>&lt;p&gt;In this project I used exploratory data analysis to identify key characteristics of Titanic survivers and used classification machine learning models to predict what type of person was more likely to survive.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stevecara.github.io/Portfolio/images/titanic_lmplot_0.7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stevecara.github.io/Portfolio/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevecara.github.io/Portfolio/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
+  </channel>
+</rss>
